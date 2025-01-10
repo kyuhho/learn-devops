@@ -1,0 +1,13 @@
+1. Function App 만들기
+[Create Function App in Azure...(Advanced)]
+- 함수 앱 이름: fapp-[SUFFIX]-02
+- 런타임 스택: Node.js 18 LTS
+- OS: Windows
+- 리소스 그룹: rg-paaslab
+- 호스팅 계획: Consumption
+- 스토리지 계정: stfunc[SUFFIX]
+- Application Insight: Skip for now
+
+2. (VS Code) Function 확장에서 배포한 경우 읽기 전용임을 확인.
+
+3. 포털에서 함수 섹션 기능 비교

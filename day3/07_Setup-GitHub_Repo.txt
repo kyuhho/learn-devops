@@ -1,0 +1,18 @@
+0. GitHub 가입 및 로그인
+
+1. Git for Windows 설치
+https://git-scm.com/download/win
+
+- VS Code를 편집기로 지정
+
+2. VS Code에서 TripAdvisorWeb 프로젝트 열기
+
+3. VS Code의 Git 터미널에서 실행
+git config --global user.email "<YOUR GitHub Email Account>"
+git config --global user.name "YOUR GitHub ID"
+
+5. VS Code의 액션 바에서 Source Control 아이콘 선택 후 [Publish to GitHub]
+
+6. GitHub 인증 및 Git 자격증명 통합
+
+7. GitHub Repo 확인
