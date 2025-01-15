@@ -16,6 +16,6 @@
 [모니터링+보안]
 - Application Insights: 아니오
 
-#3. 테스트 
+#3. 테스트
 
 #4. DAY1의 docker-compose.yml을 사용해 wordpress 배포하기
